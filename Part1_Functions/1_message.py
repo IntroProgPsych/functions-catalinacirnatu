@@ -6,3 +6,5 @@
 # Hello from a function!
 
 # Write your code here:
+def greet():
+    print("hello from a function")
